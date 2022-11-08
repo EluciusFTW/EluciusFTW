@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**EluciusFTW/EluciusFTW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Guy, and I love writing code. <br >
 
-Here are some ideas to get you started:
+I'm an enterprise developer by day, working mainly with C# and TypeScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Before transitioning to software development I was a mathematician. After a few years of learning the ropes, I have lately come full cirlce and am delightfully discovering the deep connections between type theory, category theory and logic.
+
+Those explorations have lead me to functional programming. F# is one of my more recent - but probably long-lasting -  passions.
+
+I love using the command line, and hence, lot's of my projects turn out to be CLI-related. I especially like to solve goofy things with them, like [wordles](https://github.com/EluciusFTW/wordle-assistant), [countles](https://github.com/EluciusFTW/countle-solver) or write [poker simulations](https://github.com/EluciusFTW/CardGames).
+
+The project I am currently most excited about is: 
+
+#### [**SpectreCoff**](https://github.com/EluciusFTW/SpectreCoff) - _Spectre Console for FSharp_. A thin, opinionated wrapper around [Spectre Console](https://https://github.com/spectreconsole/spectre.console).
+
+--- 
+You can find me on Twitter as [@EluciusFTW](https://twitter.com/eluciusftw). 
+Also, I'm team #dropthedot :grin:
