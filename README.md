@@ -14,6 +14,9 @@ The project I am currently most excited about is:
 
 #### [**SpectreCoff**](https://github.com/EluciusFTW/SpectreCoff) - _Spectre Console for FSharp_. A thin, opinionated wrapper around [Spectre Console](https://https://github.com/spectreconsole/spectre.console).
 
+If you want to use the Spectre.Console.CLI in your F# console application, you can use my [starter template](https://github.com/EluciusFTW/fsharp-spectre-console-template) to get started quickly.
+
 --- 
+
 You can find me on Twitter as [@EluciusFTW](https://twitter.com/eluciusftw). 
 Also, I'm team #dropthedot :grin:
