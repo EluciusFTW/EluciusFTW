@@ -2,7 +2,7 @@
 
 I'm Guy, and I love writing code. <br >
 
-I'm an enterprise developer by day, working mainly with C# and TypeScript, and an open source enthusiast by night, lately addign a lot of F# to the mix!
+I'm an enterprise developer by day, working mainly with C# and TypeScript, and an open source enthusiast by night, lately adding a lot of F# to the mix!
 
 Before transitioning to software development I was a physicist and mathematician. After a few years of learning the ropes, I have lately come full cirlce and am delightfully discovering the deep connections between type theory, category theory and logic. Those explorations have lead me to functional programming. Naturally, I'm not scared of the monad, hehe.
 
