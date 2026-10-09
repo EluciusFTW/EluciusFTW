@@ -2,7 +2,7 @@
 
 I'm Guy, and I love writing code. <br >
 
-I'm an enterprise developer by day, working mainly with C# and TypeScript, and an open source enthusiast by night, lately adding a lot of F# to the mix!
+I'm an enterprise developer by day - although I try har not to be one from hell - Working mainly with C# and TypeScript, and an open source enthusiast by night, lately adding a lot of F# to the mix!
 
 Before transitioning to software development I was a physicist and mathematician. After a few years of learning the ropes, I have lately come full cirlce and am delightfully discovering the deep connections between type theory, category theory and logic. Those explorations have lead me to functional programming. Naturally, I'm not scared of the monad, hehe.
 
@@ -12,6 +12,7 @@ I love using the command line, and hence, lot's of my projects turn out to be CL
 
 However, the project I am currently most excited about is: 
 
+* [**SpectreTuff**](https://github.com/EluciusFTW/SpectreTuff) - _Spectre.Tui for FSharp_. A thin, opinionated wrapper around [Spectre.tui](https://github.com/spectreconsole/spectre.tui)
 * [**SpectreCoff**](https://github.com/EluciusFTW/SpectreCoff) - _Spectre Console for FSharp_. A thin, opinionated wrapper around [Spectre Console](https://https://github.com/spectreconsole/spectre.console).
 
 If you want to use the Spectre.Console.CLI in your F# console application, you can use my [starter template](https://github.com/EluciusFTW/fsharp-spectre-console-template) to get started quickly.
@@ -23,5 +24,5 @@ I also created and maintain the website of my pool billiards club, _Billardfabri
 
 ---
 
-You can find me on Twitter as [@EluciusFTW](https://twitter.com/eluciusftw). 
+You can find me on Bluesky as [@eluciusftw](https://bsky.app/profile/eluciusftw.bsky.social). 
 Also, I'm team #dropthedot :grin:
